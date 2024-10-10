@@ -15,4 +15,4 @@ This webpage is relatively simple but I'm offering some further info here as fur
 **Process:** I'm using Neovim to create this README but use Visual Studio Code as my primary text editor when it comes to any sort of development. I prefer Neovim for basic text editing and writing scripts.
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-daltonwood-eeca6c
-[linkedin-url]: https://linkedin.com/in/daltonwood
+[linkedin-url]: https://linkedin.com/in/dltnwd
